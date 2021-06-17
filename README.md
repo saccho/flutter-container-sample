@@ -18,7 +18,7 @@ You can connect to the host's Android emulator from the container by using the [
 
 ``` shell
 $ git clone git@github.com:saccho/flutter-container-sample.git && cd flutter-container-sample
-& code .
+$ code .
 ```
 
 2. Launch the Android emulator in your host PC.
