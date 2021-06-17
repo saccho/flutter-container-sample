@@ -23,6 +23,14 @@ $ code .
 
 2. Launch the Android emulator in your host PC.
 
+``` shell
+# in your host PC
+# check emulator list
+$ emulator -list-avds
+# launch any emulator
+$ emulator -avd <emulator-name>
+```
+
 3. Execute the following command so that you can connect to the emulator via the network.
 
 ``` shell
