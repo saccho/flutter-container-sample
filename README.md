@@ -25,10 +25,10 @@ $ code .
 
 ``` shell
 # in your host PC
-# check emulator list
+# check the avd list
 $ emulator -list-avds
 # launch any emulator
-$ emulator -avd <emulator-name>
+$ emulator -avd <avd-name>
 ```
 
 3. Execute the following command so that you can connect to the emulator via the network.
